@@ -1,4 +1,4 @@
-# Hi there, I'm Yumi 👋
+# Hi there. 👋
 
 ## 🔹 自己紹介
 - Androidアプリ開発、Windowsアプリ開発が得意  
@@ -10,12 +10,13 @@
 - **その他**: Oracle, SQL Server, Google Maps API, AWS S3, AWS Lambda, AWS  API Gateway
 
 ## 🔹 主なプロジェクト
-| プロジェクト名 | 説明 | 技術 |
-|---|---|---|
-| 顧客管理システム | 顧客管理用のWinFormsアプリ | VB.NET, Oracle |
-| CTIアプリ | WinFormsアプリ | VB.NET, Oracle |
-| 配達アプリ | Androidアプリ | Kotlin, Android Studio |
-| Pythonツール集 | 自動化・データ処理用スクリプト | Python |
+- 顧客管理システム開発（VB.NET + Oracle）
+- CTIシステム開発（VB.NET + Oracle）
+- 配達管理アプリ開発（Android Kotlin）
+- 社内システム保守（VB.NET + DB2）
+- VBA各種ツール
+- Python各種ツール
+- Kintoneを使った社内アプリ連携
 
 ## 🔹 GitHub Projects
 🚧 メンテナンス中...
