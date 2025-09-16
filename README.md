@@ -7,13 +7,14 @@
 ## 🔹 技術スタック
 - **言語**: VB.NET, Kotlin, Python, Delphi  
 - **フレームワーク**: WinForms, Android Studio  
-- **その他**: Oracle, SQL Server, Google Maps API, AWS S3, AWS Lambda, AWS  
+- **その他**: Oracle, SQL Server, Google Maps API, AWS S3, AWS Lambda, AWS  API Gateway
 
 ## 🔹 主なプロジェクト
 | プロジェクト名 | 説明 | 技術 |
 |---|---|---|
-| WinForm顧客管理システム | 顧客管理用のWinFormsアプリ | VB.NET, SQL Server |
-| CTIアプリ | 着信番号をKintoneに連携するAndroidアプリ | Kotlin, Android Studio, Kintone API |
+| 顧客管理システム | 顧客管理用のWinFormsアプリ | VB.NET, Oracle |
+| CTIアプリ | WinFormsアプリ | VB.NET, Oracle |
+| 配達アプリ | Androidアプリ | Kotlin, Android Studio |
 | Pythonツール集 | 自動化・データ処理用スクリプト | Python |
 
 ## 🔹 GitHub Projects
